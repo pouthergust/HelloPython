@@ -1,3 +1,3 @@
-# Hello Python
+# Hello Python and RabbitMQ
 
-Aulas de Python
+Projeto de estudo de Python e RabbitMQ.
